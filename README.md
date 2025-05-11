@@ -1,4 +1,5 @@
 ## Softwares required
+- Python 3.13.1
 - MongoDB
 - Ollama - llama3.2
 - Jupyter Notebook (Optional: for analyzing dataset)
