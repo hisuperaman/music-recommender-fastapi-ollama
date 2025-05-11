@@ -1,0 +1,7 @@
+.env
+.venv
+__pycache__
+combined_similarity.pkl
+tfidf_matrix.pkl
+tfidf.pkl
+df.pkl
